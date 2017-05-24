@@ -1,4 +1,4 @@
-# Laravel Quickstart - Basic
+# Laravel CRUD example - Basic
 
 ## Quck Installation
 
