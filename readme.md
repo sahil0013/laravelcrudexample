@@ -2,9 +2,9 @@
 
 ## Quck Installation
 
-    git clone https://github.com/laravel/quickstart-basic quickstart
+    git clone https://github.com/sahil0013/laravelcrudexample.git
 
-    cd quickstart
+    cd crudexample
 
     composer install
 
